@@ -5,7 +5,7 @@ Currency Converter is a Java application that allows you to convert between diff
 
 This application was created by 🚀 Vinay Kumar.
 
-![Currency Converter](screenshot.png)
+![Currency Converter](https://github.com/ADVindiancoder/-Currency-Converter/blob/main/Currency%20Converter.png)
 
 ## ✨ Features
 - 💹 Convert between different currencies.
