@@ -30,11 +30,19 @@ This application was created by 🚀 Vinay Kumar.
 - 🖼️ Java AWT for GUI components
 - 📦 JOptionPane for dialog boxes
 
-## 📄 License
-This project is open-source and available under the [MIT License](LICENSE).
 
-## 👨‍💻 Author
-- 🧑‍💻 Vinay Kumar
+
+# 👨‍💻 Author
+![Currency Converter](https://github.com/ADVindiancoder/-Currency-Converter/blob/main/2.png)
+
 
 ## 🙏 Acknowledgments
 Special thanks to my gurus who taught me in a better way.
+
+## 📄 Screenshot
+![Currency Converter](https://github.com/ADVindiancoder/-Currency-Converter/blob/main/2.png)
+![Currency Converter](https://github.com/ADVindiancoder/-Currency-Converter/blob/main/2.png)
+
+
+## 📄 License
+This project is open-source and available under the [MIT License](LICENSE).
