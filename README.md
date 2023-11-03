@@ -40,8 +40,12 @@ This application was created by 🚀 Vinay Kumar.
 Special thanks to my gurus who taught me in a better way.
 
 ## 📄 Screenshot
-![Currency Converter](https://github.com/ADVindiancoder/-Currency-Converter/blob/main/2.png)
-![Currency Converter](https://github.com/ADVindiancoder/-Currency-Converter/blob/main/2.png)
+![Currency Converter](https://github.com/ADVindiancoder/-Currency-Converter/blob/main/currency%20convertor%20screenshot/Screenshot%20(90).png)
+![Currency Converter](https://github.com/ADVindiancoder/-Currency-Converter/blob/main/currency%20convertor%20screenshot/Screenshot%20(91).png)
+![Currency Converter](https://github.com/ADVindiancoder/-Currency-Converter/blob/main/currency%20convertor%20screenshot/Screenshot%20(92).png)
+![Currency Converter](https://github.com/ADVindiancoder/-Currency-Converter/blob/main/currency%20convertor%20screenshot/Screenshot%20(93).png)
+![Currency Converter](https://github.com/ADVindiancoder/-Currency-Converter/blob/main/currency%20convertor%20screenshot/Screenshot%20(94).png)
+
 
 
 ## 📄 License
